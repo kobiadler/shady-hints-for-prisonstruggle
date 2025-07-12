@@ -47,9 +47,9 @@ If an update is released:
 
 ## 🩶 Credits
 
-Created to help PrisonStruggle and JailStruggle players **save time while clue farming**.
-Love the tool? Points are appreciated. [Support](https://prisonstruggle.com/profiles.php?id=45)
-No data is collected, and this is purely a **personal QoL tool** for community use.
+Created to help PrisonStruggle and JailStruggle players **save time while clue farming**.\n
+Love the tool? Points are appreciated. [Support](https://prisonstruggle.com/profiles.php?id=45)\n
+No data is collected, and this is purely a **personal QoL tool** for community use.\n
 
 ---
 
