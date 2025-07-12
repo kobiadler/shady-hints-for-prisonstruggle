@@ -6,10 +6,10 @@ Automatically shows **clue answers** on PrisonStruggle and JailStruggle to speed
 
 ## 📌 Features
 
-✅ Displays the correct answer under each clue automatically  
-✅ Clean styling with **gold moving gradient** for clear visibility  
-✅ No clicks or page reloads required – answers appear instantly  
-✅ No data collection, lightweight, and open source
+- Displays the correct answer under each clue automatically
+- Clean styling with **gold moving gradient** for clear visibility
+- No clicks or page reloads required – answers appear instantly
+- No data collection, lightweight, and open source
 
 ---
 
@@ -29,8 +29,7 @@ Automatically shows **clue answers** on PrisonStruggle and JailStruggle to speed
 
 3️⃣ **Done.**
 
-Now visit shady
-and answers will automatically appear under each clue for fast solving.
+Now visit shady and answers will automatically appear under each clue for fast solving.
 
 ---
 
@@ -47,9 +46,9 @@ If an update is released:
 
 ## 🩶 Credits
 
-Created to help PrisonStruggle and JailStruggle players **save time while clue farming**.\n
-Love the tool? Points are appreciated. [Support](https://prisonstruggle.com/profiles.php?id=45)\n
-No data is collected, and this is purely a **personal QoL tool** for community use.\n
+- Created to help PrisonStruggle and JailStruggle players **save time while clue farming**.
+- Love the tool? Points are appreciated. [Support](https://prisonstruggle.com/profiles.php?id=45)
+- No data is collected, and this is purely a **personal QoL tool** for community use.\n
 
 ---
 
