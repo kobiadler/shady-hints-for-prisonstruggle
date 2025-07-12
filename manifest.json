@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "PrisonStruggle Shady Hints",
+  "version": "1.0",
+  "description": "Automatically shows answers for clues on PrisonStruggle and JailStruggle to speed up your farming.",
+  "icons": {
+    "128": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://prisonstruggle.com/buydrugs.php",
+        "http://jailstruggle.com/buydrugs.php",
+        "https://prisonstruggle.com/buydrugs.php",
+        "https://jailstruggle.com/buydrugs.php"
+      ],
+      "js": ["content.js"]
+    }
+  ],
+  "permissions": []
+}
