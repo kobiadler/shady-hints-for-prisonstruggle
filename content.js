@@ -75,7 +75,7 @@ const clueAnswers = {
   "Taken from the building itself. Good for smashing.": "Iron Bar",
   "The design makes you think you can go faster": "Sporty Roller Blades",
   "The hat from a clockwork orange.": "Bowler hat",
-  "These guys got your back": "Body Guard",
+  "These guys got your back.": "Body Guard",
   "These must be stolen from the commissary food section. Tons of protein": "Energy Bar",
   "This button-up is deceitfully defensive.": "Padded Shirt",
   "This has to be expired by now... right?": "Milk",
