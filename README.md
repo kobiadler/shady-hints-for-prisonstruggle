@@ -55,7 +55,7 @@ No data is collected, and this is purely a **personal QoL tool** for community u
 
 ## 📬 Issues / Suggestions
 
-If you encounter a clue that does not display an answer or have ideas for improvement, please open an [Issue](https://github.com/YOUR_USERNAME/prisonstruggle-shady-hints/issues) or submit a PR.
+If you encounter a clue that does not display an answer or have ideas for improvement, please open an [Issue](https://github.com/SCP766/shady-hints-for-prisonstruggle/issues) or submit a PR.
 
 ---
 
